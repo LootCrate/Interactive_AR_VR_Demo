@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{AEEEE882-E2F1-1AD3-7720-0838B0AF9C89}") = "AR_VR_Demo", "Assembly-CSharp.csproj", "{5E738876-0BE9-5536-07F2-0525314F354D}"
+EndProject
+Project("{AEEEE882-E2F1-1AD3-7720-0838B0AF9C89}") = "AR_VR_Demo", "Assembly-CSharp-Editor.csproj", "{D838C973-7C53-AF88-8D65-7135C4EC4761}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E738876-0BE9-5536-07F2-0525314F354D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E738876-0BE9-5536-07F2-0525314F354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E738876-0BE9-5536-07F2-0525314F354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E738876-0BE9-5536-07F2-0525314F354D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D838C973-7C53-AF88-8D65-7135C4EC4761}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D838C973-7C53-AF88-8D65-7135C4EC4761}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D838C973-7C53-AF88-8D65-7135C4EC4761}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D838C973-7C53-AF88-8D65-7135C4EC4761}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
